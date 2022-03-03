@@ -1,12 +1,15 @@
-# A collapsible section with markdown
+# STEP2 Question Reviews
+
+## 3/2/2022
 <details>
-  <summary>Click to expand!</summary>
+  <summary></summary>
   
   ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+  1. Causes
+  2. Effect
+  3. Symptoms
+     * 
+     * 
 </details>
 
 <details>
@@ -36,3 +39,33 @@
      * persistent headache
      * vomiting
 </details>
+
+<details>
+  <summary>gush vaginal fluid, <34weeks</summary>
+  
+  ## Premature rupture of membranes
+  1. Causes
+  2. Effect
+  3. Symptoms
+     * 
+     *
+  4. BCOA
+    * antibiotics and corticosteroids
+      * promote fetal dev
+    * Delivery if
+      * >34 weeks
+      * intraamniotic infection
+</details>
+  
+  
+<details>
+  <summary>fetal tachycardia, uterine tenderness</summary>
+  
+  ## intraamniotic infection
+  1. Causes
+  2. Effect
+  3. Symptoms
+     * 
+     * 
+</details>
+  
