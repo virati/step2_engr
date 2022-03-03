@@ -69,3 +69,15 @@
      * 
 </details>
   
+<details>
+  <summary>eye drops for open-angle glaucoma</summary>
+  
+  ## Latanoprost
+</details>
+  
+
+<details>
+  <summary>yellow white fluffy lesions</summary>
+  
+  ## CMV retinitis
+</details>
